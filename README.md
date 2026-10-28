@@ -192,3 +192,9 @@ To remove PrintBridge:
 1. Right-click the tray icon and select **Exit**.
 2. Run `scripts\uninstall.bat` as Administrator (this cleans up the startup registry entry and removes the firewall rules).
 3. Delete the `publish` or `PrintBridge` folder.
+
+---
+
+## 📄 License
+
+MIT © 2026 MNEJJA Mohamed. See [LICENSE](LICENSE).
