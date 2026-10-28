@@ -1,0 +1,27 @@
+## .NET / Visual Studio
+bin/
+obj/
+publish/
+*.user
+*.suo
+*.vs/
+.vs/
+*.DotSettings.user
+*.nupkg
+project.lock.json
+TestResults/
+
+## IDE
+.idea/
+*.swp
+*~
+
+## Build output
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+
+## OS
+Thumbs.db
+.DS_Store
