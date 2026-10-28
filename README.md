@@ -4,6 +4,14 @@
 
 ---
 
+## ⬇️ Download
+
+[**Download the latest Windows release**](https://github.com/mnejjamohamed/easy-print-easy-scan/releases/latest) — no installer, just one `.exe`.
+
+> Requires Windows 10/11 x64 and the [.NET 8 Desktop Runtime + ASP.NET Core Runtime](https://dotnet.microsoft.com/download/dotnet/8.0). The executable is unsigned, so Windows SmartScreen may warn on first launch.
+
+---
+
 ## 🖼️ Screenshots
 
 ### Windows Settings
@@ -18,7 +26,7 @@
 
 ## 🌟 Key Highlights
 
-- **Single `.exe` Application:** Everything runs in a single standalone executable (`PrintBridge.exe`). No complex Windows Service installation or multi-process setup needed.
+- **Single `.exe` Application:** Everything runs in a single standalone executable. No complex Windows Service installation or multi-process setup needed.
 - **System Tray Native:** Sits quietly in the Windows notification area. Right-click to toggle individual printers on/off or open settings.
 - **AirPrint & Mopria Native:** Fully compliant with RFC 8010/8011 (IPP 2.0) and DNS-SD (mDNS). Your Windows printers show up automatically in the native iOS print dialog and Android Default Print Service.
 - **100% Offline & Native:** Works completely on your local network. No cloud accounts, external servers, or internet connection needed.
