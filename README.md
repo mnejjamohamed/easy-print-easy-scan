@@ -8,7 +8,7 @@
 
 [**Download the latest Windows release**](https://github.com/mnejjamohamed/easy-print-easy-scan/releases/latest) — no installer, just one `.exe`.
 
-> Requires Windows 10/11 x64 and the [.NET 8 Desktop Runtime + ASP.NET Core Runtime](https://dotnet.microsoft.com/download/dotnet/8.0). The executable is unsigned, so Windows SmartScreen may warn on first launch.
+> Requires Windows 10/11 x64 and the [.NET 8 Desktop Runtime + ASP.NET Core Runtime](https://dotnet.microsoft.com/download/dotnet/8.0) and set your printer as shared from control panel . The executable is unsigned, so Windows SmartScreen may warn on first launch.
 
 ---
 
